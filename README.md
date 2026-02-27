@@ -33,9 +33,11 @@ The goal is to provide actionable insights for multiple stakeholders:
    . Interactive Story View: bookmarks for gender vs. academic level perspectives
    . Drill‑Through Student Profile: individual demographics, sleep, usage, conflicts, mental health
 
+ 📈 Key Insights
+   . Students with >5 hours daily social media usage sleep ~2 hours less on average.
+   . Addiction scores above 7 strongly correlate with academic performance impact.
+   . Conflicts over social media are most common among students in relationships.
+   . Gender differences are subtle: females average slightly higher daily usage than males.
 
-- Interactivity:
-   . Slicers for gender, country, academic level, and age range
-   . Bookmarks for storytelling views
-   . Drill‑through for personalized student insights
+
 
