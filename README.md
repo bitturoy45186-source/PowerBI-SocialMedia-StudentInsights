@@ -40,10 +40,10 @@ The goal is to provide actionable insights for multiple stakeholders:
 
 
  📈 Key Insights
-   . Students with >5 hours daily social media usage sleep ~2 hours less on average.
-   . Addiction scores above 7 strongly correlate with academic performance impact.
-   . Conflicts over social media are most common among students in relationships.
-   . Gender differences are subtle: females average slightly higher daily usage than males.
+   . Students with >5 hours daily social media usage sleep ~2 hours less on average
+   . Addiction scores above 7 strongly correlate with academic performance impact
+   . Conflicts over social media are most common among students in relationships
+   . Gender differences are subtle: females average slightly higher daily usage than males
 
 
 
